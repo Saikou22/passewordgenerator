@@ -10,7 +10,9 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background: url(./bg.jpg) center/cover;
+  /* background: url(./bg.jpg) center/cover; */
+
+  background-color: rgb(6, 6, 161);
 }
 .app {
   background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
